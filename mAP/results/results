@@ -1,0 +1,9 @@
+
+# Number of predicted objects per class
+bicycle: 227 (tp:161, fp:66)
+bus: 286 (tp:236, fp:50)
+car: 1791 (tp:1245, fp:546)
+motorcycle: 300 (tp:241, fp:59)
+pedestrian: 11752 (tp:8253, fp:3499)
+traffic-light: 488 (tp:339, fp:149)
+truck: 382 (tp:254, fp:128)
